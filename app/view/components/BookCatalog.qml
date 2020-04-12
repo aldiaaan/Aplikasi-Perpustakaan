@@ -9,7 +9,8 @@ import QtGraphicalEffects 1.12
 
 GridView {
   id: gv_guest  
-  Layout.fillHeight: true    
+  // Layout.fillHeight: true
+  Layout.preferredHeight: Screen.height - search_bar.height - toolbar.height - tab.height - 52    
   Layout.fillWidth: true
   Layout.leftMargin: 12         
   clip: true        

@@ -103,11 +103,11 @@ ColumnLayout {
     GridView {      
       id: gv_borrowers
       snapMode: GridView.NoSnap      
-      Layout.fillHeight: true
+      // Layout.fillHeight: true
       Layout.fillWidth: true
       Layout.leftMargin: 12     
       clip: true      
-      height: Screen.height
+      Layout.preferredHeight: Screen.height - search_bar.height - toolbar.height - tab.height - 52  
       cellHeight: 180
       cellWidth:  width / 3
       model: ListModel {}

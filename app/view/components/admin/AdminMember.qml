@@ -129,7 +129,8 @@ ColumnLayout {
       snapMode: ListView.SnapToItem      
       Layout.fillWidth: true
       Layout.leftMargin: 12              
-      height: Screen.height
+      // height: Screen.height
+      Layout.preferredHeight: Screen.height - toolbar.height - tab.height - 100
       cellHeight: 180
       cellWidth:  width / 4
       model: ListModel {}

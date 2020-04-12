@@ -165,6 +165,7 @@ Page {
     }    
     BookCatalog {
       id: guest_catalog
+      Layout.preferredHeight: Screen.height - search_bar.height  - 64  
       delegate: BookCard {
         mode: 'guest'
         _width: guest_catalog.cellWidth - 12
