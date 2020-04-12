@@ -25,4 +25,4 @@ User:
 - Melihat informasi sebuah buku
 
 #### Video Demo Aplikasi
-link: TBA soon
+link: https://www.youtube.com/watch?v=sED8zRPXz_w
