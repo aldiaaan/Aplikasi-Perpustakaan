@@ -1,3 +1,6 @@
+#### Video Demo Aplikasi
+link: https://www.youtube.com/watch?v=sED8zRPXz_w
+
 # Aplikasi Perpustakaan
 Aplikasi Perpustakaan adalah aplikasi untuk manajemen perpustakaan yang sasarannya adalah perpustakaan di lingkungan sekolah maupun perpustakaan di lingkungan umum. Di dalam aplikasi ini terdapat dua view, view yang pertama adalah view guest. Di view guest ini pengunjung dapat menjelajahi buku buku yang ada di perpustakaan, pengunjung juga dapat mencari buku yang ingin dicari dengan mengetikan judul, penulis atau penerbit lewat kolom pencarian. Aplikasi ini akan memunculkan daftar buku yang sesuai dengan ingin pengunjung cari. Pengunjung juga dapat mengajukan pinjaman lewat aplikasi ini dengan menekan tombol pinjam dan login dengan menggunakan akun pengunjung yang sudah terdaftar di admin. View yang kedua adalah view admin. Dalam aplikasi ini admin dapat melakukan banyak hal diantaranya mengupdate data buku, memasukan buku dalam katalog, menghapus buku dari katalog, melihat peminjaman, melihat siapa yang telat mengembalikan buku beserta denda yang dikenakan untuk ketelatan mengembalikan buku, mendaftarkan pengunjung menjadi member perpustakaan, melihat, menghapus dan mengupdate data member.
 
@@ -24,5 +27,3 @@ User:
 - Mencari di katalog buku
 - Melihat informasi sebuah buku
 
-#### Video Demo Aplikasi
-link: https://www.youtube.com/watch?v=sED8zRPXz_w
